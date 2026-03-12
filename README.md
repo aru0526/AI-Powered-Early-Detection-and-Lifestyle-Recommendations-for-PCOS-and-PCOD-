@@ -198,7 +198,8 @@ npm start  # or python app.py
 
 # Run frontend
 cd frontend
-npm run dev ```
+npm run dev.
+```
 ---
 AI/ML Model Overview
 
