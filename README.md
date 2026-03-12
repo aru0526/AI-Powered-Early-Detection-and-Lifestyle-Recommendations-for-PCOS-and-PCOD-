@@ -199,7 +199,7 @@ npm start  # or python app.py
 # Run frontend
 cd frontend
 npm run dev
-
+---
 AI/ML Model Overview
 
 Input: Cycle history, BMI, lifestyle habits, symptoms<br>
@@ -207,6 +207,7 @@ Algorithm Used: Logistic Regression, Random Forest, and ANN<br>
 Output: PCOS/PCOD risk probability (0–100%)<br>
 Dataset: Preprocessed dataset (public + synthetic anonymized data)<br>
 Evaluation Metrics: Accuracy, Precision, Recall, F1 Score<br>
+
 ---
 ## 🏆 Final Year & Hackathon Project
 
