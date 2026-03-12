@@ -1,29 +1,39 @@
-# 🌸 AI-Powered Early Detection and Lifestyle Recommendation System for PCOS and PCOD
+# 🌸 AI-Powered Early Detection and Lifestyle Recommendation System for PCOS & PCOD
 
-## 🎥 Project Demo [[Watch the demo]](https://youtu.be/qDjl8UE7Upo?si=LY__ghPlRhFxNEsO)
-
-> Developed under **Open Innovation Track** at **HackAura 2025**  
-> by **Team Auracoder** 💜  
-> _Empowering Women's Health with AI & Data-Driven Insights_
-
----
-
-## 👩‍💻 Team Auracoder
-- **Renu Kumari Prajapati**  
-- **Arushi Thakur**  
-- **Stuti Tiwari**  
-- **Palchhin**
+![AI Healthcare](https://img.shields.io/badge/Domain-AI%20Healthcare-purple?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-React-orange?style=for-the-badge&logo=react)
+![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
+![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
+![Status](https://img.shields.io/badge/Project-Hackathon%20Project-pink?style=for-the-badge)
 
 ---
 
-## 💡 Project Overview
+## 🎥 Project Demo
 
-Polycystic Ovary Syndrome (PCOS) and Polycystic Ovary Disorder (PCOD) are among the most common hormonal imbalances affecting millions of women globally.  
-Delayed diagnosis often leads to long-term health issues, including infertility, diabetes, obesity, and mental health challenges.  
+▶ **Watch the demo:**  
+https://youtu.be/qDjl8UE7Upo?si=LY__ghPlRhFxNEsO
 
-Our project — **AI-Powered Early Detection and Lifestyle Recommendation System for PCOS and PCOD** — aims to address this challenge by integrating **Artificial Intelligence (AI)** and **Machine Learning (ML)** to detect early signs and provide **personalized lifestyle recommendations**.
+---
 
-The system acts as a **digital health companion**, empowering women with awareness, guidance, and accessible healthcare connections.
+# 💡 Project Overview
+
+Polycystic Ovary Syndrome (**PCOS**) and Polycystic Ovary Disorder (**PCOD**) are among the most common hormonal disorders affecting women worldwide.
+
+Delayed diagnosis often leads to long-term complications such as:
+
+- Infertility
+- Diabetes
+- Obesity
+- Mental health challenges
+
+Our system leverages **Artificial Intelligence and Machine Learning** to:
+
+✔ Detect early risk signals  
+✔ Analyze lifestyle and health patterns  
+✔ Provide **personalized health recommendations**
+
+The platform acts as a **digital health companion**, helping women take control of their health through awareness and preventive care.
 
 ---
 
@@ -197,5 +207,33 @@ Algorithm Used: Logistic Regression, Random Forest, and ANN<br>
 Output: PCOS/PCOD risk probability (0–100%)<br>
 Dataset: Preprocessed dataset (public + synthetic anonymized data)<br>
 Evaluation Metrics: Accuracy, Precision, Recall, F1 Score<br>
+---
+## 🏆 Final Year & Hackathon Project
 
+Developed under the **Open Innovation Track** at **HackAura 2025**
+
+by **Team Auracoder 💜**
+
+> *Empowering Women’s Health with AI & Data-Driven Insights*
+
+---
+
+# 👩‍💻 Team Auracoder
+
+- **Renu Kumari Prajapati**
+- **Arushi Thakur**
+- **Stuti Tiwari**
+- **Palchhin**
+
+----
+---
+
+## 🌟 Final Note
+
+This project reflects our vision of using **Artificial Intelligence to improve women's healthcare accessibility and awareness**.
+
+Small innovations in technology can lead to **big changes in lives**.  
+If this project inspires you or helps spread awareness about PCOS and PCOD, consider giving it a ⭐ on GitHub.
+
+Together, we can build **technology that truly makes a difference.**
 
