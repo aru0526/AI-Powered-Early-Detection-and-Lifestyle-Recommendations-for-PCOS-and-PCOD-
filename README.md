@@ -201,7 +201,8 @@ cd frontend
 npm run dev.
 ```
 ---
-AI/ML Model Overview
+
+**AI/ML Model Overview**
 
 Input: Cycle history, BMI, lifestyle habits, symptoms<br>
 Algorithm Used: Logistic Regression, Random Forest, and ANN<br>
